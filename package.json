@@ -1,0 +1,19 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "Realizando primeros testeos con Cypress en la web Demoblaze",
+  "main": "index.js",
+  "scripts": {
+    "test": "open"
+  },
+  "keywords": [
+    "js",
+    "test",
+    "testing"
+  ],
+  "author": "Atala Caren",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.17.2"
+  }
+}
